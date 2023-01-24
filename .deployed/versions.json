@@ -1,0 +1,19 @@
+[
+  {
+    "apihost": "https://faas-ams3-2a2df116.doserverless.co",
+    "namespace": "fn-827b9715-70cd-4639-9e57-c5c2f2bb5fa2",
+    "packageVersions": {
+      "sample": {
+        "version": "0.0.84",
+        "digest": "e4a2720e87c619a56019f373ead5690d39813e0a319af5e91ec0aa0fc3604409"
+      }
+    },
+    "actionVersions": {
+      "sample/hello": {
+        "version": "0.0.2",
+        "digest": "f662ca632aa251eda6edf56294e7d0329be7d43da753723e62dc6e5dae940039"
+      }
+    },
+    "webHashes": {}
+  }
+]
